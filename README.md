@@ -4,7 +4,7 @@ CI/CD Tutorial for class presentation
 Based on [this tutorial](https://spacelift.io/blog/github-actions-tutorial).
 
 
-## Tutorial Design
+## Homework Design
 
 The objective is to add a Github Action that logs into your Docker account, to the existing go.yml file. 
 
