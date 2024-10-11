@@ -10,6 +10,10 @@ The objective is to add a Github Action that logs into your Docker account, to t
 
 ### Docker Account
 If you do not have a Docker account, create one [here](https://www.docker.com/).
+
+## Fork this repository
+To make your own copy of this repo, click "Fork" on the main page. Then you should be able to make the following edits.
+
 ### Modify the current `go.yml` file 
 Add
 ```
