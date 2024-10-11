@@ -24,7 +24,7 @@ Add
 ```
 ### Configure GitHub Secrets:
 
-  In your GitHub repository, navigate to "Settings" > "Secrets" > "New repository secret".
+  In your GitHub repository, navigate to "Settings" > "Secrets & variables" > "Actions" > "New repository secret".
   
   Create a new secret named **DOCKER_USERNAME** with your Docker Hub username.
   
